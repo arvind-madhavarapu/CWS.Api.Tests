@@ -8,5 +8,6 @@ namespace CWS.Api.Tests
 {
     public class Class1
     {
+
     }
 }
